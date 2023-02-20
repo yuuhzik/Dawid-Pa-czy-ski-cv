@@ -1,0 +1,147 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+    
+}
+#header1{
+    background-color:#DFDFDF;
+    color: aliceblue;
+    height:40px;
+    text-align: center;
+}
+#omniep{
+    background-color: white; 
+    border: none;
+    color: grey;
+    padding: 15px;
+    text-align: center;
+    font-size: 13px;
+    margin: 1px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    -webkit-box-shadow: 4px 13px 32px -9px rgba(66, 68, 90, 1);
+  -moz-box-shadow: 4px 13px 32px -9px rgba(66, 68, 90, 1);
+  box-shadow: 4px 13px 32px -9px rgba(66, 68, 90, 1);
+}
+#header{
+    margin-top:300px;
+    margin-left:700px;
+    position:absolute;
+    font-family: 'Roboto Mono', monospace;
+    
+}
+
+#div1{
+    line-height: 20px;
+}
+#mojezdj{
+    width:250px;
+    margin-left:1060px;
+    border-radius: 50%;
+    margin-top:240px;
+    position:absolute;
+}
+#em{
+    font-size: 20px;
+}
+
+#h11{
+    font-size:30px;
+}
+
+#p2{
+    font-size:18px
+    
+}
+
+#omnie{
+    position:absolute;
+    margin-top:403px;
+    margin-left:695px;
+}
+#przycisk{
+  background-color: grey; 
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+  -webkit-box-shadow: 4px 13px 32px -9px rgba(66, 68, 90, 1);
+-moz-box-shadow: 4px 13px 32px -9px rgba(66, 68, 90, 1);
+box-shadow: 4px 13px 32px -9px rgba(66, 68, 90, 1);
+}
+
+#omniesection{
+    background-color:#EEEEEE;
+    position:absolute;
+    margin-top:1183px;
+    width:1902px;
+    height:400px;
+    box-shadow:10px;
+    
+}
+#omnie2{
+   font-size:35px;
+   text-align: center;
+   font-family: 'Hammersmith One', sans-serif;
+   margin-top: 20px;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+#opismnie{
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
+#napisprzyklad{
+    font-size:35px;
+    font-family: 'Hammersmith One', sans-serif;
+    text-align: center;
+    margin-top: 20px;
+}
+#przykladfilmy{
+    position:absolute;
+    background-color:#C7C7C7;
+    margin-top:1580px ;
+    width: 1903px;
+    height: 739px;
+    
+}
+#przykladfilmy2{
+    text-align: center;
+    margin-top: 10px;
+}
+#przykladfilmy3{
+    text-align: center;
+}
+#kontakt{
+   
+    background-color:#BABABA ;
+    height:300px
+   
+}
+#napiskontakt{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Hammersmith One', sans-serif;
+}
+#facebook{
+    margin-left:720px;
+    font-family: 'Roboto Mono', monospace;
+    
+}
+#discord{
+    margin-left:960px;
+    position:absolute;
+    font-family: 'Roboto Mono', monospace;
+}
+#gmail{
+    margin-left:860px;
+    padding-top: 5px;
+    font-family: 'Roboto Mono', monospace;
+}
