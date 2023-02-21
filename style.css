@@ -4,6 +4,18 @@
     box-sizing:border-box;
     
 }
+@media (max-width: 500px) {
+2
+html, body {
+3
+    font-size: 14px;
+4
+}
+5
+#wrapper{width:100%;}
+6
+.page{width:90%;}
+
 #header1{
     background-color:#DFDFDF;
     color: aliceblue;
