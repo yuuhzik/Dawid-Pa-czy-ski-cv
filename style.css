@@ -4,27 +4,8 @@
     box-sizing:border-box;
     
 }
-
-
-#header1{
-    background-color:#DFDFDF;
-    color: aliceblue;
-    height:40px;
-    text-align: center;
-}
-#omniep{
-    background-color: white; 
-    border: none;
-    color: grey;
-    padding: 15px;
-    text-align: center;
-    font-size: 13px;
-    margin: 1px 2px;
-    cursor: pointer;
-    border-radius: 16px;
-    -webkit-box-shadow: 4px 13px 32px -9px rgba(66, 68, 90, 1);
-  -moz-box-shadow: 4px 13px 32px -9px rgba(66, 68, 90, 1);
-  box-shadow: 4px 13px 32px -9px rgba(66, 68, 90, 1);
+html{
+    scroll-behavior: smooth;
 }
 #header{
     margin-top:300px;
@@ -33,9 +14,18 @@
     font-family: 'Roboto Mono', monospace;
     
 }
-
+#h11{
+    font-size:30px;
+}
 #div1{
     line-height: 20px;
+}
+#em{
+    font-size: 20px;
+}
+#p2{
+    font-size:18px
+    
 }
 #mojezdj{
     width:250px;
@@ -44,38 +34,25 @@
     margin-top:240px;
     position:absolute;
 }
-#em{
-    font-size: 20px;
-}
-
-#h11{
-    font-size:30px;
-}
-
-#p2{
-    font-size:18px
-    
-}
-
 #omnie{
     position:absolute;
     margin-top:403px;
     margin-left:695px;
 }
 #przycisk{
-  background-color: grey; 
-  border: none;
-  color: white;
-  padding: 20px;
-  text-align: center;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-  border-radius: 16px;
-  -webkit-box-shadow: 4px 13px 32px -9px rgba(66, 68, 90, 1);
--moz-box-shadow: 4px 13px 32px -9px rgba(66, 68, 90, 1);
-box-shadow: 4px 13px 32px -9px rgba(66, 68, 90, 1);
-}
+    background-color: grey; 
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    -webkit-box-shadow: 4px 13px 32px -9px rgba(66, 68, 90, 1);
+  -moz-box-shadow: 4px 13px 32px -9px rgba(66, 68, 90, 1);
+  box-shadow: 4px 13px 32px -9px rgba(66, 68, 90, 1);
+  }
 
 #omniesection{
     background-color:#EEEEEE;
@@ -92,19 +69,9 @@ box-shadow: 4px 13px 32px -9px rgba(66, 68, 90, 1);
    font-family: 'Hammersmith One', sans-serif;
    margin-top: 20px;
 }
-html{
-    scroll-behavior: smooth;
-}
-
 #opismnie{
     text-align: center;
     font-family: 'Roboto Mono', monospace;
-}
-#napisprzyklad{
-    font-size:35px;
-    font-family: 'Hammersmith One', sans-serif;
-    text-align: center;
-    margin-top: 20px;
 }
 #przykladfilmy{
     position:absolute;
@@ -114,6 +81,13 @@ html{
     height: 739px;
     
 }
+#napisprzyklad{
+    font-size:35px;
+    font-family: 'Hammersmith One', sans-serif;
+    text-align: center;
+    margin-top: 20px;
+}
+
 #przykladfilmy2{
     text-align: center;
     margin-top: 10px;
@@ -122,14 +96,14 @@ html{
     text-align: center;
 }
 #kontakt{
-   width: 1903px;
+    width: 1903px;
     margin-top: 2317px;
     position: absolute;
     background-color:#BABABA ;
     height:300px
-   
+    
 }
-#napiskontakt{
+#kontaktnapis{
     text-align: center;
     font-size: 25px;
     font-family: 'Hammersmith One', sans-serif;
