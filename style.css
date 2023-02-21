@@ -149,7 +149,7 @@ html{
     padding-top: 5px;
     font-family: 'Roboto Mono', monospace;
 }
-@media screen and (max-width:767px){
+@media only screen and (max-width:767px){
     #header{
         width:auto;
         margin-left: 20px;
