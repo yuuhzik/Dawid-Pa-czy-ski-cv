@@ -4,17 +4,7 @@
     box-sizing:border-box;
     
 }
-@media (max-width: 500px) {
-2
-html, body {
-3
-    font-size: 14px;
-4
-}
-5
-#wrapper{width:100%;}
-6
-.page{width:90%;}
+
 
 #header1{
     background-color:#DFDFDF;
@@ -132,7 +122,9 @@ html{
     text-align: center;
 }
 #kontakt{
-   
+   width: 1903px;
+    margin-top: 2317px;
+    position: absolute;
     background-color:#BABABA ;
     height:300px
    
@@ -156,4 +148,42 @@ html{
     margin-left:860px;
     padding-top: 5px;
     font-family: 'Roboto Mono', monospace;
+}
+@media screen and (max-width:767px){
+    #header{
+        width:auto;
+        margin-left: 20px;
+    }
+    #mojezdj{
+        width:200px;
+        margin-left: 350px;
+    }
+    #omnie{
+        margin-top:400px;
+        margin-left:auto;
+    }
+    #omniesection{
+        width:560px;
+    }
+    #przykladfilmy{
+        width:560px;
+        height: auto;
+    }
+    #kontakt{
+        width: 560px;
+        margin-top:2930px;
+    }
+    
+    #discord{
+        margin-left:80px;
+    }
+    #facebook{
+        margin-left:280px;
+    }
+    #gmail{
+        margin-left:160px;
+    }
+    #kontaktnapis{
+        text-align: center;
+    }
 }
