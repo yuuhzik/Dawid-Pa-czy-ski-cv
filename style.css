@@ -141,8 +141,9 @@ html{
         width:387px;
     }
     #przykladfilmy{
-        width:387px;
+        width: 100%;
         height: auto;
+        aspect-ratio: 16 / 9;
     }
     #kontakt{
         width: 387px;
@@ -153,7 +154,7 @@ html{
         margin-left:10px;
     }
     #facebook{
-        margin-left:210px;
+        margin-left:230px;
     }
     #gmail{
         margin-left:110px;
