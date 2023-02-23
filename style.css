@@ -123,39 +123,40 @@ html{
     padding-top: 5px;
     font-family: 'Roboto Mono', monospace;
 }
-@media only screen and (max-width:576px){
+@media only screen and (max-width:476px){
     #header{
-        width:auto;
+        width:200px;
         margin-left: 20px;
     }
     #mojezdj{
-        width:200px;
-        margin-left: 350px;
+        width:170px;
+        margin-left:215px;
+        margin-top: 270px;
     }
     #omnie{
-        margin-top:400px;
-        margin-left:auto;
+        margin-top:496px;
+        margin-left:17px;
     }
     #omniesection{
-        width:560px;
+        width:387px;
     }
     #przykladfilmy{
-        width:560px;
+        width:387px;
         height: auto;
     }
     #kontakt{
-        width: 560px;
+        width: 387px;
         margin-top:2930px;
     }
     
     #discord{
-        margin-left:80px;
+        margin-left:10px;
     }
     #facebook{
-        margin-left:280px;
+        margin-left:210px;
     }
     #gmail{
-        margin-left:160px;
+        margin-left:110px;
     }
     #kontaktnapis{
         text-align: center;
