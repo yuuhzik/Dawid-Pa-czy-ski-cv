@@ -97,12 +97,7 @@ html{
 #przykladfilmy3{
     text-align: center;
 }
-iframe {
-    width: 80vw;
-    max-width: 500px;
-    height: auto;
-    aspect-ratio: 16 / 9;
-}
+
 #kontakt{
     width: 1903px;
     margin-top: 2317px;
@@ -189,4 +184,10 @@ iframe {
         margin-top:2070px;
        
     }
+}
+iframe {
+    width: 80vw;
+    max-width: 500px;
+    height: auto;
+    aspect-ratio: 16 / 9;
 }
